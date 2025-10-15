@@ -40,3 +40,8 @@ int main() {
 
     return 0;
 }
+
+/*
+output
+Linked List elements: 10 20 30
+*/
