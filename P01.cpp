@@ -33,5 +33,6 @@ int main() {
 }
 
 /*
+output
 1 2 3
 */
