@@ -45,3 +45,14 @@ int main() {
     return 0;
 }
 
+/*
+output
+Enter number of nodes: 4
+Enter value for node 1: 10
+Enter value for node 2: 20
+Enter value for node 3: 30
+Enter value for node 4: 40
+
+Linked List elements: 10 20 30 40
+*/
+
