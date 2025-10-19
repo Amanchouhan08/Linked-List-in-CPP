@@ -37,3 +37,8 @@ int main() {
     return 0;
 }
 
+/*
+output
+Linked List after inserting at beginning: 10 20 30
+*/
+
